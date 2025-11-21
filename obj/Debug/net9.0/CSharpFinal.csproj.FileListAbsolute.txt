@@ -1,0 +1,15 @@
+C:\Users\MSI\Desktop\CSharpFinal\bin\Debug\net9.0\CSharpFinal.exe
+C:\Users\MSI\Desktop\CSharpFinal\bin\Debug\net9.0\CSharpFinal.deps.json
+C:\Users\MSI\Desktop\CSharpFinal\bin\Debug\net9.0\CSharpFinal.runtimeconfig.json
+C:\Users\MSI\Desktop\CSharpFinal\bin\Debug\net9.0\CSharpFinal.dll
+C:\Users\MSI\Desktop\CSharpFinal\bin\Debug\net9.0\CSharpFinal.pdb
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.AssemblyInfoInputs.cache
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.AssemblyInfo.cs
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.sourcelink.json
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.dll
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\refint\CSharpFinal.dll
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.pdb
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\CSharpFinal.genruntimeconfig.cache
+C:\Users\MSI\Desktop\CSharpFinal\obj\Debug\net9.0\ref\CSharpFinal.dll
